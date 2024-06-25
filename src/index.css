@@ -1,0 +1,46 @@
+/*.************ VARIABLES ************.*/
+:root {
+  /*Colores*/
+  --first-color: #d6a692;
+  --second-color: #ce7777;
+  --third-color: #ad4c6b;
+  --backg-color: #331d4a;
+  --backg-second-color: #504375;
+  --black-color: #000000;
+  --grey-light-color: #C0C0C0;
+  --white-color: #ffffff;
+
+  /*Tipografia*/
+  --first-font: 'Roboto', sans-serif;
+  --second-font: 'Nunito', sans-serif;
+}
+
+/*.************ RESET ************.*/
+*, *::after, *::before {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html {
+  font-size: 16px;
+  font-family: var(--first-font);
+}
+body {
+  overflow-x: hidden;
+  color: var(--white-color);
+  background-color: var(--black-color);
+} 
+
+::-webkit-scrollbar {
+  width: 12px;               /* width of the entire scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: var(--white-color);        /* color of the tracking area */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--backg-second-color);    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  border: 3px solid var(--white-color);  /* creates padding around scroll thumb */
+}

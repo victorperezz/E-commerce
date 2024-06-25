@@ -1,0 +1,28 @@
+@import url(/node_modules/swiper/swiper-bundle.min.css);
+
+
+
+@media screen and (min-width: 576px) {
+    .swiper-container {
+    width: 576px;
+    }
+}
+
+@media screen and (min-width: 700px) {
+    .home {
+        padding-top: 10px;
+    }
+
+    .swiper-container {
+    width: 100px;
+    }
+}
+
+@media (min-width: 992px) {
+    .swiper .swiper-slide {
+    justify-content: center;
+    align-items: space;
+    width: auto;
+    }
+}
+
