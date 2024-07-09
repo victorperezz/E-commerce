@@ -4,7 +4,7 @@
       "id": 1,
       "img": "https://http2.mlstatic.com/D_NQ_NP_2X_777745-MLU72857079336_112023-F.webp",
       "titulo": "Galaxy A52", 
-      "descripcion": "Samsung Galaxy A52 64 GB",
+      "descripcion": "Samsung Galaxy A52 64GB",
       "caracteristicas": "• Pantalla: Super AMOLED de 6.5 pulgadas Full HD+ • Procesador: Qualcomm de 8 núcleos. • Cámara principal 64MP + 12MP + 5MP + 5MP. • Cámara frontal: 32 MP. • Batería: Li-ion 4500 mAh. • Memoria RAM: 6GB. Memoria interna: 64GB.",
       "precio": 3900,
       "boton": "Comprar"         
@@ -13,7 +13,7 @@
       "id": 2,
       "img": "https://http2.mlstatic.com/D_NQ_NP_641271-MLA73977028366_012024-O.webp",
       "titulo": "Redmi Note 13 Pro",
-      "descripcion": "Xiaomi Redmi Note 13 Pro 256 GB",
+      "descripcion": "Xiaomi Redmi Note 13 Pro 256GB",
       "caracteristicas": "• Pantalla: 6.67 pulgadas AMOLED, FHD+, 120 Hz • Procesador: MediaTek Dimensity 920 • Cámara principal: 200 MP + 8 MP + 2 MP • Cámara frontal: 16 MP • Batería: 5100 mAh • Memoria RAM: 12 GB • Memoria interna: 256 GB",
       "precio": 5800,
       "boton": "Comprar"
@@ -22,7 +22,7 @@
       "id": 3,
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUlEnIKdz-f6Ub_zVGs9eDXFQ6F_QPsGrGQQ&s",
       "titulo": "Samsung s23 Ultra",
-      "descripcion": "Celular Samsung s23 Ultra 512 GB",
+      "descripcion": "Celular Samsung s23 Ultra 512GB",
       "caracteristicas": "Pantalla: 6.8 pulgadas Dynamic AMOLED 2X, QHD+, 120 Hz • Procesador: Snapdragon 8 Gen 2 • Cámara principal: 200 MP + 12 MP + 10 MP + 10 MP • Cámara frontal: 12 MP • Batería: 5000 mAh • Memoria RAM: 12 GB • Memoria interna: 512 GB",
       "precio": 19200,
       "boton": "Comprar"
@@ -31,7 +31,7 @@
       "id": 4,
       "img": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaPE/18411696_01/public",
       "titulo": "Moto G50",
-      "descripcion": " Motorola G50 64 GB",
+      "descripcion": " Motorola G50 64GB",
       "caracteristicas": "• Pantalla: 6.5 pulgadas IPS LCD, HD+, 90 Hz • Procesador: Qualcomm Snapdragon 480 • Cámara principal: 48 MP + 5 MP + 2 MP • Cámara frontal: 13 MP • Batería: 5000 mAh • Memoria RAM: 4 GB • Memoria interna: 64 GB ",
       "precio": 6500,
       "boton": "Comprar"
