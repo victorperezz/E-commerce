@@ -1,4 +1,6 @@
-[
+{
+  "smartphones": [
+   [
   {
     "id": 1,
     "img": "https://armoto.vtexassets.com/arquivos/ids/163823-500-auto?v=1759093632&width=500&height=auto&aspect=true",
@@ -36,3 +38,12 @@
     "boton": "Comprar"
   }
 ]
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
