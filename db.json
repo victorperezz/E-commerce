@@ -74,16 +74,5 @@
     "precio": 251.999,
     "boton": "Comprar"
   }
-  ],
-  "audio": [
-  {
-    "id": 9,
-    "img": "https://www.aiwaelectronics.com.ar/images/productos/aw-t2008/parlante.png",
-    "titulo": "Equipo de Audio AIWA T2008",
-    "descripcion": "Parlante Torre Bluetooth Portátil Ring Aiwa Aw-t2008",
-    "caracteristicas": "Con la función TWS podrás conectar dos de estos parlantes transmitiendo un canal por cada uno ¡y obteniendo como resultado un sonido estéreo! Con sus diferentes estilos de luces vas a poder tener s iempre el clima ideal para la ocasión. Es un parlante ideal para presentaciones acústicas gracias a su potente sonido y que podés conectar tu guitarra y un micrófono adicional al que viene incluido ¡y es inalámbrico!",
-    "precio": 89.999,
-    "boton": "Comprar"
-  }
-]
+  ]
 }
