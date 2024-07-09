@@ -40,11 +40,11 @@
   "tvs": [
     {
       "id": 5,
-      "img": "",
-      "titulo": "Smart Led Tv Philips 32''",
-      "descripcion": "Smart Led Android Tv Philips 32 Pulgadas HD",
-      "caracteristicas": "Televisor Smart / Android. Pantalla: TV LED HD. Resolucion de panel: 1366 x 768 p. Relacion de aspecto: 16:9. Optimizacion de la imagen: HDR10, HLG (Hybrid Log Gamma), Pixel Plus alta definicion. Tamano diagonal de pantalla: 32 pulgadas / 80 cm. Cantidad de conexiones HDMI: 3. Cantidad de puertos USB: 2. WIFI. Bluetooth.",
-      "precio": 64.499,
+      "img": "https://cdn1.coppel.com/images/catalog/pm/2096523-1.jpg",
+      "titulo": "Samsung smart tv",
+      "descripcion": "Samsung smart tv 50 pulgadas",
+      "caracteristicas": "• Pantalla: 50 pulgadas LED, 4K UHD • Resolución: 3840 x 2160 píxeles • Sistema Operativo: Tizen • HDR: Compatible con HDR10+ • Conectividad: Wi-Fi, Bluetooth, HDMI (x3), USB (x2) • Sonido: Dolby Digital Plus • Funciones Smart: Asistentes de voz integrados (Bixby, Alexa, Google Assistant), acceso a aplicaciones de streaming (Netflix, YouTube, etc.)",
+      "precio": 8200,
       "boton": "Comprar"
     },
     {
