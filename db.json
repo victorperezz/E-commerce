@@ -7,7 +7,7 @@
       "descripcion": "Samsung Galaxy A52 64GB",
       "caracteristicas": "• Pantalla: Super AMOLED de 6.5 pulgadas Full HD+ • Procesador: Qualcomm de 8 núcleos. • Cámara principal 64MP + 12MP + 5MP + 5MP. • Cámara frontal: 32 MP. • Batería: Li-ion 4500 mAh. • Memoria RAM: 6GB. Memoria interna: 64GB.",
       "precio": 3900,
-      "boton": "Agregar al carrito"
+      "boton": "Agregar"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "descripcion": "Xiaomi Redmi Note 13 Pro 256GB",
       "caracteristicas": "• Pantalla: 6.67 pulgadas AMOLED, FHD+, 120 Hz • Procesador: MediaTek Dimensity 920 • Cámara principal: 200 MP + 8 MP + 2 MP • Cámara frontal: 16 MP • Batería: 5100 mAh • Memoria RAM: 12 GB • Memoria interna: 256 GB",
       "precio": 5800,
-      "boton": "Agregar al carrito"
+      "boton": "Agregar"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "descripcion": "Celular Samsung s23 Ultra 512GB",
       "caracteristicas": "Pantalla: 6.8 pulgadas Dynamic AMOLED 2X, QHD+, 120 Hz • Procesador: Snapdragon 8 Gen 2 • Cámara principal: 200 MP + 12 MP + 10 MP + 10 MP • Cámara frontal: 12 MP • Batería: 5000 mAh • Memoria RAM: 12 GB • Memoria interna: 512 GB",
       "precio": 19200,
-      "boton": "Agregar al carrito"
+      "boton": "Agregar"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "descripcion": " Motorola G50 64GB",
       "caracteristicas": "• Pantalla: 6.5 pulgadas IPS LCD, HD+, 90 Hz • Procesador: Qualcomm Snapdragon 480 • Cámara principal: 48 MP + 5 MP + 2 MP • Cámara frontal: 13 MP • Batería: 5000 mAh • Memoria RAM: 4 GB • Memoria interna: 64 GB ",
       "precio": 6500,
-      "boton": "Agregar al carrito"
+      "boton": "Agregar"
     }
   ],
   "tvs": [
