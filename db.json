@@ -11,11 +11,11 @@
     },
     {
       "id": 2,
-      "img": "",
-      "titulo": "Moto G32",
-      "descripcion": "Celular Motorola Moto G32 4/128gb Plata Satinado",
-      "caracteristicas": "Celular. Pantalla IPS de 6.49. Relacion aspecto 20:9. Resolucion 1080 x 2400, FHD+, 405, Mid-HiD, 90Hz. Procesador Qualcomm Snapdragon 680 Octa core (2.4GHz). Capacidad 128 Gb (expandible hasta 1Tb) / RAM 4 Gb. Camara Principal: 50MP (74.26)F1.8Gran Angular: 8MP (118) F2.2Macro: 2MP (88) F2.2. Zoom digital (8x picture / 8x video). Flash LED. Camara frontal 16MP (118) F2.2. Flash frontal backlight. Conexiones: USB C 2.0.",
-      "precio": 65.999,
+      "img": "https://www.jiomart.com/images/product/original/rvvssskx3l/redmi-note-13-pro-5g-12gb-ram-256gb-rom-midnight-black-smartphone-product-images-orvvssskx3l-p607255447-0-202401091315.jpg?im=Resize=(420,420)",
+      "titulo": "Redmi Note 13 Pro",
+      "descripcion": "Xiaomi Redmi Note 13 Pro 256GB",
+      "caracteristicas": "• Pantalla: 6.67 pulgadas AMOLED, FHD+, 120 Hz • Procesador: MediaTek Dimensity 920 • Cámara principal: 200 MP + 8 MP + 2 MP • Cámara frontal: 16 MP • Batería: 5100 mAh • Memoria RAM: 12 GB • Memoria interna: 256 GB",
+      "precio": 5800,
       "boton": "Comprar"
     },
     {
