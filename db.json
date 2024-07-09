@@ -102,15 +102,6 @@
     "caracteristicas": "Parlante portatil, 20 hs de reproduccion, Solido y resistente al agua IPX7. Funcion de bateria incorporada. Carga a traves de dispositivos USB. Entrada de audio. Funcion que evita los cortes. Reproduce a un volumen alto sin distorsion. Bluetooth 5.0. Hasta 20 m de alcance inalambrico. Sonido estereo. Las luces LED multicolor. Carga completa de bateria: h/6 horas. Conexion de audio: entrada 3.5.",
     "precio": 30.699,
     "boton": "Comprar"
-  },
-  {
-    "id": 12,
-    "img": "https://www.aiwaelectronics.com.ar/images/productos/aw-t2022/img2.png",
-    "titulo": "Parlante Aiwa Infinit",
-    "descripcion": "Parlante Bluetooth Aiwa AW-T2022.",
-    "caracteristicas": "¡Llevá la fiesta a donde sea que vayas! Con la Correa de fácil transporte podés moverte con tu música de la terraza, a la playa o en donde mas gustes. Práctica, liviana y portatil, con un sonido potente. Sus deslumbrantes efectos de luces le darán ese toque mágico a todos tus momentos..",
-    "precio": 31.099,
-    "boton": "Comprar"
   }
 ]
 }
