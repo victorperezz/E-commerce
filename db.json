@@ -2,7 +2,7 @@
   "smartphones": [
     {
       "id": 1,
-      "img": "https://http2.mlstatic.com/D_NQ_NP_2X_777745-MLU72857079336_112023-F.webp&width=800&height=auto&aspect=true",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_2X_777745-MLU72857079336_112023-F.webp",
       "titulo": "Samsung Galaxy A52", 
       "descripcion": "Samsung Galaxy A52 64 GB, snapdargon 680 6 GB RAM",
       "caracteristicas": "Pantalla: Super AMOLED de 6.5 pulgadas Full HD+ Procesador: Qualcomm de 8 núcleos.Cámara principal 64MP + 12MP + 5MP + 5MP. Cámara frontal: 32 MP. Batería: Li-ion 4500 mAh. Memoria RAM: 6GB. Memoria interna: 128GB. Capacidad de memoria externa: 1TB.",
