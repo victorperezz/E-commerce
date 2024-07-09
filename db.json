@@ -3,7 +3,7 @@
     {
       "id": 1,
       "img": "https://http2.mlstatic.com/D_NQ_NP_2X_777745-MLU72857079336_112023-F.webp",
-      "titulo": "Samsung Galaxy A52", 
+      "titulo": "Galaxy A52", 
       "descripcion": "Samsung Galaxy A52 64 GB, snapdargon 680 6 GB RAM",
       "caracteristicas": "• Pantalla: Super AMOLED de 6.5 pulgadas Full HD+ • Procesador: Qualcomm de 8 núcleos. • Cámara principal 64MP + 12MP + 5MP + 5MP. • Cámara frontal: 32 MP. • Batería: Li-ion 4500 mAh. • Memoria RAM: 6GB. Memoria interna: 128GB.",
       "precio": 3900,
@@ -22,7 +22,7 @@
       "id": 3,
       "img": "https://m.media-amazon.com/images/I/61EOZKXPT1L._AC_UF894,1000_QL80_.jpg",
       "titulo": "Samsung s23 Ultra",
-      "descripcion": "Celular Samsung s23 Ultra 128GB",
+      "descripcion": "Celular Samsung s23 Ultra 512GB",
       "caracteristicas": "Pantalla: 6.8 pulgadas Dynamic AMOLED 2X, QHD+, 120 Hz • Procesador: Snapdragon 8 Gen 2 • Cámara principal: 200 MP + 12 MP + 10 MP + 10 MP • Cámara frontal: 12 MP • Batería: 5000 mAh • Memoria RAM: 12 GB • Memoria interna: 512 GB",
       "precio": 19200,
       "boton": "Comprar"
