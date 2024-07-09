@@ -48,69 +48,69 @@
       "boton": "Comprar"
     },
     {
-      "id": 6,
-      "img": "https://cdn.asi.do/71n7ote4m9v7w7xh8v1e3hu4x5qx",
-      "titulo": "Smart Led Tv Quint 42''",
-      "descripcion": "Smart Led Tv Quint 42 Pulgadas FULL HD",
-      "caracteristicas": "Televisor Smart de 42 FHD (1920x1080), pantalla plana. Tiempo de respuesta 8ms. Frecuencia de barrido 60Hz. Brillo 240cd/m2 Radio de contraste 3000:1. Parlantes integrados. Potencia RMS 2x8W. Dolby MS12. Salidas de audio. Wi Fi. Entrada video componente. 2 Entradas USB. 3 Entradas HDMI.",
-      "precio": 59.999,
-      "boton": "Comprar"
-    },
-    {
-      "id": 7,
-      "img": "https://medias.musimundo.com/medias/00313068-140728-140728-01-140728-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w1ODAxM3xpbWFnZS9qcGVnfGgwZS9oOWEvMTAzNzk4MTkxODgyNTQvMDAzMTMwNjgtMTQwNzI4LTE0MDcyOF8wMS0xNDA3MjhfMDEuanBnX3NpemU1MTV8MmVhMzgxY2RiN2RhY2Q0NGQzMTA0NjdmMTA1OGM4NDk3ZDRiM2YxMzkxMmM4ZmI3NGQzNzk4YTRlNGU5ODY1YQ",
-      "titulo": "Smart Led Tv Samsung 42''",
-      "descripcion": "Smart Led Tv Samsung 42 Pulgadas FULL HD",
-      "caracteristicas": "Smart TV LED 43 FHD 1920 x 1080. Clean View. Wide Color Enhancer. Wi-Fi integ. SO tizen. Dolby Digital Plus. Sonido 20W RMS. Samsung Cloud. Smart View/Hub. HDMI x 2. USB x 1. HDR. Control remoto. Manual.",
-      "precio": 83.999,
-      "boton": "Comprar"
-    },
-    {
       "id": 8,
-      "img": "https://medias.musimundo.com/medias/00620057-147339-147339-01-147339-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w2OTQ2OHxpbWFnZS9qcGVnfGhhNS9oOTEvMTA0NDI5MTgyMzIwOTQvMDA2MjAwNTctMTQ3MzM5LTE0NzMzOV8wMS0xNDczMzlfMDEuanBnX3NpemU1MTV8OWEyOWVjOGUxYTZhZmRmNzA3ZDZiNzQ0Yjc1MTIzYTAxOWJmMTlmZDUwODNhNzM4ZDFlOWJiMmVhMDUyYzA3Yg",
-      "titulo": "Smart Neo TV Samsung 42''",
-      "descripcion": "Smart Neo QLED TV Samsung 43 Pulgadas 4K",
-      "caracteristicas": "Televisor gaming Smart, Neo QLED serie 9 con pantalla de 43, UHD 4K (3840x2160) Formato de pantalla wide. Tasa de refresco 144 Hz. Procesador Neo Quantum 4K. Mil millones de colores. PQI (indice de calidad de la imagen) 4500. Quantum HDR 24x. HLG. Contraste Quantum MatrixTecnhology, Volumen de color al 100 % con Quantum Dot. Deteccion de brillo y color. Atenuacion UHD definitiva. Motion Xcelerator Turbo Pro. LED Clear Motion. Reduccion de ruido. Calibracion experta. Modo cineasta (FMM). Audio Dolby Digital Plus MS12 2ch. Potencia 20W (RMS). Amplificador de voz activo.",
-      "precio": 251.999,
-      "boton": "Comprar"
+      "img": "",
+      "titulo": "Tvs",
+      "descripcion": "detalles",
+      "caracteristicas": "",
+      "precio": 1,
+      "boton": "Agregar"
+    },
+   {
+      "id": 7,
+      "img": "",
+      "titulo": "Tvs",
+      "descripcion": "detalles",
+      "caracteristicas": "",
+      "precio": 1,
+      "boton": "Agregar"
+    },
+     {
+      "id": 8,
+      "img": "",
+      "titulo": "Tvs",
+      "descripcion": "detalles",
+      "caracteristicas": "",
+      "precio": 1,
+      "boton": "Agregar"
     }
   ],
   "audio": [
-    {
+     {
       "id": 9,
-      "img": "https://www.aiwaelectronics.com.ar/images/productos/aw-t2008/parlante.png",
-      "titulo": "Equipo de Audio AIWA T2008",
-      "descripcion": "Parlante Torre Bluetooth Portátil Ring Aiwa Aw-t2008",
-      "caracteristicas": "Con la función TWS podrás conectar dos de estos parlantes transmitiendo un canal por cada uno ¡y obteniendo como resultado un sonido estéreo! Con sus diferentes estilos de luces vas a poder tener siempre el clima ideal para la ocasión. Es un parlante ideal para presentaciones acústicas gracias a su potente sonido y que podés conectar tu guitarra y un micrófono adicional al que viene incluido ¡y es inalámbrico!",
-      "precio": 89.999,
-      "boton": "Comprar"
+      "img": "",
+      "titulo": "Bocina",
+      "descripcion": "detalles",
+      "caracteristicas": "",
+      "precio": 1,
+      "boton": "Agregar"
     },
-    {
+     {
       "id": 10,
-      "img": "https://www.aiwaelectronics.com.ar/images/productos/p450d/preview.png",
-      "titulo": "Parlante Portatil Aiwa",
-      "descripcion": "Parlante Portatil Aiwa AW-P450D. Potencia de 1200W",
-      "caracteristicas": "900 W. PMPO, Woofer 6.5, Luces RGB, CONEXIÓN BT/ USB/SD/MIC/AUX, Radio FM, Batería recargable, Dsiplay LED",
-      "precio": 14.999,
-      "boton": "Comprar"
+      "img": "",
+      "titulo": "Bocina",
+      "descripcion": "detalles",
+      "caracteristicas": "",
+      "precio": 1,
+      "boton": "Agregar"
     },
-    {
+     {
       "id": 11,
-      "img": "https://www.aiwaelectronics.com.ar/images/productos/p1200d/con-accesorios.png",
-      "titulo": "Parlante Bluetooth Aiwa",
-      "descripcion": "Parlante Bluetooth Carry-On Aiwa con Microfono",
-      "caracteristicas": "Parlante portatil, 20 hs de reproduccion, Solido y resistente al agua IPX7. Funcion de bateria incorporada. Carga a traves de dispositivos USB. Entrada de audio. Funcion que evita los cortes. Reproduce a un volumen alto sin distorsion. Bluetooth 5.0. Hasta 20 m de alcance inalambrico. Sonido estereo. Las luces LED multicolor. Carga completa de bateria: h/6 horas. Conexion de audio: entrada 3.5.",
-      "precio": 30.699,
-      "boton": "Comprar"
+      "img": "",
+      "titulo": "Bocina",
+      "descripcion": "detalles",
+      "caracteristicas": "",
+      "precio": 1,
+      "boton": "Agregar"
     },
     {
       "id": 12,
-      "img": "https://www.aiwaelectronics.com.ar/images/productos/aw-t2022/img2.png",
-      "titulo": "Parlante Aiwa Infinit",
-      "descripcion": "Parlante Bluetooth Aiwa AW-T2022.",
-      "caracteristicas": "¡Llevá la fiesta a donde sea que vayas! Con la Correa de fácil transporte podés moverte con tu música de la terraza, a la playa o en donde mas gustes. Práctica, liviana y portatil, con un sonido potente. Sus deslumbrantes efectos de luces le darán ese toque mágico a todos tus momentos..",
-      "precio": 31.099,
-      "boton": "Comprar"
+      "img": "",
+      "titulo": "Bocina",
+      "descripcion": "detalles",
+      "caracteristicas": "",
+      "precio": 1,
+      "boton": "Agregar"
     }
   ]
 }
