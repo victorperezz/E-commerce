@@ -67,11 +67,11 @@
     },
      {
       "id": 8,
-      "img": "https://resources.claroshop.com/medios-plazavip-sears/fotos/productos_sears1/original/4382616.jpg",
-      "titulo": "Tvs",
-      "descripcion": "detalles",
-      "caracteristicas": "",
-      "precio": 1,
+      "img": "https://http2.mlstatic.com/D_NQ_NP_765764-MLM41661726016_052020-O.webp",
+      "titulo": "Hisense smart tv",
+      "descripcion": "Hisense smart tv 40 pulgadas",
+      "caracteristicas": "• Pantalla: 40 pulgadas LED, Full HD • Resolución: 1920 x 1080 píxeles • Sistema Operativo: VIDAA U • HDR: Compatible con HDR • Conectividad: Wi-Fi, HDMI (x2), USB (x1) • Sonido: DTS Studio Sound • Funciones Smart: Acceso a aplicaciones de streaming (Netflix, YouTube, etc.), control por voz (dependiendo del modelo)",
+      "precio": 8000,
       "boton": "Agregar"
     }
   ],
