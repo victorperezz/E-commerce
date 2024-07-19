@@ -96,11 +96,11 @@
     },
      {
       "id": 11,
-      "img": "",
-      "titulo": "Bocina",
-      "descripcion": "detalles",
-      "caracteristicas": "",
-      "precio": 1,
+      "img": "https://www.jbl.com.mx/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwc2e07e61/1_JBL_PARTYBOX_710_HERO_0031_x8.png",
+      "titulo": "Bocina JBL",
+      "descripcion": "Bocina JBL party box",
+      "caracteristicas": "• Potencia de salida: 800w • Batería: Integrada (hasta 18 horas de reproducción) • Conectividad: Bluetooth, USB, entrada auxiliar (3.5mm), entrada de micrófono y guitarra •Luces: Luces LED integradas con varios modos y patrones de iluminación • Sonido: Graves profundos, sonido potente y claro • Funciones adicionales: True Wireless Stereo (TWS) para conectar dos altavoces compatibles • Portabilidad: Asas de transporte y ruedas",
+      "precio": 18000,
       "boton": "Agregar"
     },
     {
