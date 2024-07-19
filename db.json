@@ -1,145 +1,145 @@
 {
-  "smartphones": [
-    {
-      "id": 1,
-      "img": "https://resources.sears.com.mx/medios-plazavip/mkt/6102fbc3daf3d_dise-o-sin-t-tulo-2021-07-29t135304927jpg.jpg?scale=500&qlty=75",
-      "titulo": "Galaxy A52", 
-      "descripcion": "Samsung Galaxy A52 64GB",
-      "caracteristicas": "• Pantalla: Super AMOLED de 6.5 pulgadas Full HD+ • Procesador: Qualcomm de 8 núcleos. • Cámara principal 64MP + 12MP + 5MP + 5MP. • Cámara frontal: 32 MP. • Batería: Li-ion 4500 mAh. • Memoria RAM: 6GB. Memoria interna: 64GB.",
-      "precio": 3900,
-      "boton": "Agregar"
-    },
-    {
-      "id": 2,
-      "img": "https://cdn.pacifiko.com/image/cache/catalog/p/MjY2ZWI1Nz_1-484x484.png",
-      "titulo": "Redmi Note 13 Pro",
-      "descripcion": "Xiaomi Redmi Note 13 Pro 256GB",
-      "caracteristicas": "• Pantalla: 6.67 pulgadas AMOLED, FHD+, 120 Hz • Procesador: MediaTek Dimensity 920 • Cámara principal: 200 MP + 8 MP + 2 MP • Cámara frontal: 16 MP • Batería: 5100 mAh • Memoria RAM: 12 GB • Memoria interna: 256 GB",
-      "precio": 5800,
-      "boton": "Agregar"
-    },
-    {
-      "id": 3,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUlEnIKdz-f6Ub_zVGs9eDXFQ6F_QPsGrGQQ&s",
-      "titulo": "Samsung s23 Ultra",
-      "descripcion": "Celular Samsung s23 Ultra 512GB",
-      "caracteristicas": "Pantalla: 6.8 pulgadas Dynamic AMOLED 2X, QHD+, 120 Hz • Procesador: Snapdragon 8 Gen 2 • Cámara principal: 200 MP + 12 MP + 10 MP + 10 MP • Cámara frontal: 12 MP • Batería: 5000 mAh • Memoria RAM: 12 GB • Memoria interna: 512 GB",
-      "precio": 19200,
-      "boton": "Agregar"
-    },
-    {
-      "id": 4,
-      "img": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaPE/18411696_01/public",
-      "titulo": "Moto G50",
-      "descripcion": " Motorola G50 64GB",
-      "caracteristicas": "• Pantalla: 6.5 pulgadas IPS LCD, HD+, 90 Hz • Procesador: Qualcomm Snapdragon 480 • Cámara principal: 48 MP + 5 MP + 2 MP • Cámara frontal: 13 MP • Batería: 5000 mAh • Memoria RAM: 4 GB • Memoria interna: 64 GB ",
-      "precio": 6500,
-      "boton": "Agregar"
-    }
-  ],
-  "tvs": [
-    {
-      "id": 5,
-      "img": "https://cdn1.coppel.com/images/catalog/pm/2096523-1.jpg",
-      "titulo": "Samsung smart tv",
-      "descripcion": "Samsung smart tv 50 pulgadas",
-      "caracteristicas": "• Pantalla: 50 pulgadas LED, 4K UHD • Resolución: 3840 x 2160 píxeles • Sistema Operativo: Tizen • HDR: Compatible con HDR10+ • Conectividad: Wi-Fi, Bluetooth, HDMI (x3), USB (x2) • Sonido: Dolby Digital Plus • Funciones Smart: Asistentes de voz integrados (Bixby, Alexa, Google Assistant), acceso a aplicaciones de streaming (Netflix, YouTube, etc.)",
-      "precio": 8200,
-      "boton": "Agregar"
-    },
-    {
-      "id": 8,
-      "img": "https://cdn1.coppel.com/images/catalog/pm/2426093-1.jpg",
-      "titulo": "Hisense smart tv",
-      "descripcion": "Hisense smart tv 32 pulgadas",
-      "caracteristicas": "• Pantalla: 32 pulgadas LED, HD • Resolución: 1366 x 768 píxeles • Sistema Operativo: VIDAA U • HDR: Compatible con HDR • Conectividad: Wi-Fi, HDMI (x2), USB (x1) • Sonido: DTS Studio Sound • Funciones Smart: Acceso a aplicaciones de streaming (Netflix, YouTube, etc.), control por voz (dependiendo del modelo)",
-      "precio": 3200,
-      "boton": "Agregar"
-    },
-   {
-      "id": 7,
-      "img": "https://cdn1.coppel.com/images/catalog/pm/2131023-1.jpg",
-      "titulo": "LG smart tv",
-      "descripcion": "LG smart tv 65 pulgadas",
-      "caracteristicas": "• Pantalla: 65 pulgadas OLED / LED, 4K UHD • Resolución: 3840 x 2160 píxeles • Sistema Operativo: webOS • HDR: Compatible con HDR10, Dolby Vision • Conectividad: Wi-Fi, Bluetooth, HDMI (x4), USB (x3) • Sonido: Dolby Atmos • Funciones Smart: Asistentes de voz integrados (Google Assistant, Alexa), acceso a aplicaciones de streaming (Netflix, Disney+, etc.)",
-      "precio": 12000,
-      "boton": "Agregar"
-    },
-     {
-      "id": 8,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4I96JpLeIaW2Sk9REH5UQEa4HXX_woxWJTA&s",
-      "titulo": "Hisense smart tv",
-      "descripcion": "Hisense smart tv 40 pulgadas",
-      "caracteristicas": "• Pantalla: 40 pulgadas LED, Full HD • Resolución: 1920 x 1080 píxeles • Sistema Operativo: VIDAA U • HDR: Compatible con HDR • Conectividad: Wi-Fi, HDMI (x2), USB (x1) • Sonido: DTS Studio Sound • Funciones Smart: Acceso a aplicaciones de streaming (Netflix, YouTube, etc.), control por voz (dependiendo del modelo)",
-      "precio": 8000,
-      "boton": "Agregar"
-    }
-  ],
-  "audio": [
-     {
-      "id": 9,
-      "img": "https://m.media-amazon.com/images/I/61ZksVxDOZL.jpg",
-      "titulo": "Bocina JBL",
-      "descripcion": "Bocina JBL xtreme 3",
-      "caracteristicas": "• Potencia de salida: 2 x 25W (modo AC) • Batería: 10,000 mAh, hasta 15 horas de reproducción • Conectividad: Bluetooth 5.1 • Resistencia: Certificación IP67 (resistente al agua y al polvo) • Sonido: JBL Bass Radiator, sonido estéreo • Funciones adicionales: PartyBoost (para conectar múltiples altavoces compatibles), puerto USB para cargar dispositivos móviles",
-      "precio": 4200,
-      "boton": "Agregar"
-    },
-     {
-      "id": 10,
-      "img": "https://ordena.com/cdn/shop/products/12b62d0b-14b569b0e6f--7ffb94773128761441762.uploadPopup_1024x1024.png?v=1582230877",
-      "titulo": "Bocina KSR",
-      "descripcion": "Bocina KSR 15 pulgadas",
-      "caracteristicas": "• Potencia de salida: 3500 W • Conectividad: Bluetooth, entradas RCA, USB, SD, AUX, Micrófono • Funciones adicionales: Ecualizador, control remoto, radio FM • Diseño: Carcasa robusta, asas y ruedas para transporte en modelos portátiles",
-      "precio": 5000,
-      "boton": "Agregar"
-    },
-     {
-      "id": 11,
-      "img": "https://medias.musimundo.com/medias/00520003-145660-145660-01-145660-01.jpg-size300?context=bWFzdGVyfGltYWdlc3wyMjQ4OHxpbWFnZS9qcGVnfGhiMS9oMjcvMTAzODE2MDE4NjU3NTgvMDA1MjAwMDMtMTQ1NjYwLTE0NTY2MF8wMS0xNDU2NjBfMDEuanBnX3NpemUzMDB8NTkzZTNhM2M1OTI1MDA2ZjVjN2Y0OTgzMDY3YWI2ZGI5MTMxZWU2MjFkNDgzMzIxMTI5N2Q2OTA3YjRjODJiOQ",
-      "titulo": "Bocina JBL",
-      "descripcion": "Bocina JBL party box",
-      "caracteristicas": "• Potencia de salida: 800w • Batería: Integrada (hasta 18 horas de reproducción) • Conectividad: Bluetooth, USB, entrada auxiliar (3.5mm), entrada de micrófono y guitarra •Luces: Luces LED integradas con varios modos y patrones de iluminación • Sonido: Graves profundos, sonido potente y claro • Funciones adicionales: True Wireless Stereo (TWS) para conectar dos altavoces compatibles • Portabilidad: Asas de transporte y ruedas",
-      "precio": 18000,
-      "boton": "Agregar"
-    },
-    {
-      "id": 12,
-      "img": "https://coregaming.com.mx/assets/uploads/sw_01_1950.jpg?1666217038",
-      "titulo": "Bocina Alexa",
-      "descripcion": "Bocina inteligente alexa",
-      "caracteristicas": "• Asistente de Voz: Alexa integrada • Conectividad: Wi-Fi, Bluetooth • Sonido: Altavoz de alta calidad Echo • Micrófonos: Matriz de micrófonos de campo lejano para reconocimiento de voz • Compatibilidad: Control de dispositivos inteligentes del hogar (luces, termostatos, etc.) • Funciones adicionales: Streaming de música (Amazon Music, Spotify, Apple Music), respuestas a preguntas, configuraciones de alarmas y recordatorios, habilidades adicionales descargables",
-      "precio": 1200,
-      "boton": "Agregar"
-    }
-  ],
-  "Destacados": [
-  {
-    "id": 13,
-    "img": "https://medias.musimundo.com/medias/00550016-146186-146186-01-146186-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w3NTAxM3xpbWFnZS9qcGVnfGhmYi9oODkvMTAzOTA2ODA2MzMzNzQvMDA1NTAwMTYtMTQ2MTg2LTE0NjE4Nl8wMS0xNDYxODZfMDEuanBnX3NpemU1MTV8ZjQ2YmYyNzU1ZTc2OTYzNDM0MmIwMzMxN2UyMDIxNmE0NjVjZGMyYzk5ZWQyYmE5NzgyODhhNjA4NjY0ZjEwNA",
-    "titulo": "Samsung Galaxy S20",
-    "descripcion": "Celular. Pantalla Super AMOLED de 6.5''. Procesador: Octa-Core 2.8GHz,2.4GHz,1.8GHz. Bateria: 4,500mAh / 25W Fast Charging. Camara: 12.0 MP + 12.0 MP + 8.0 MP. Camara Frontal: 32.0 MP. Optical Zoom at 3x , Digital Zoom up to 30x. NFC. USB. WIFI. Micro SD. Bluetooth. Almacenamiento: 128 Gb. RAM: 6 Gb. 5G. FOD. Galaxy Experience. IP68. Sensores: Acelerometro / Sensor de huellas dactilares / Sensor giroscopico / Sensor geomagnetico / Sensor Hall / Sensor de luz RGB / Deteccion de proximidad virtual.",
-    "precio": 1,
-    "antes": 1,
-    "discount": "25% OFF"
-  },
-  {
-    "id": 14,
-    "img": "https://medias.musimundo.com/medias/00431006-144267-144267-01-144267-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w4MTUyOHxpbWFnZS9qcGVnfGgyOS9oNjEvMTA0NDA3MzI1NzM3MjYvMDA0MzEwMDYtMTQ0MjY3LTE0NDI2N18wMS0xNDQyNjdfMDEuanBnX3NpemU1MTV8ODg4MWMwN2EzMmFmYWUyZjA0Njg5OGYyMzBlOGE0OWNjNTMxZjA0YjFjN2I1ZjdlN2JiNmU4MGI3MDMxOWZmZg",
-    "titulo": "Smart TV LG 4K UHD",
-    "descripcion": "Televisor Android Smart de 55''. Pantalla LED. Frecuencia de barrido 60 Hz. Potencia RMS 20W. Resolucion 4K UHD 3840 x 2160. 2 Salidas de audio. Bluetooth. Wi Fi. Sintonizador TDA. Tecnologia Android TV 10. 2 USB. 4 HDMI. Incluye Control remoto, 2 pilas AAA, Cable de alimentacion, Guia de inicio rapida, Folleto legal y de seguridad, Soporte para la mesa. Contraste dinamico HDR 10+. Entrada de pc (HDMI). Vision y sonido cinematograficos Dolby Vision y Dolby Atmos. Relacion de aspecto 16:9",
-    "precio": 1,
-    "antes": 1,
-    "discount": "40% OFF"
-  },
-  {
-    "id": 15,
-    "img": "https://medias.musimundo.com/medias/00520003-145660-145660-01-145660-01.jpg-size300?context=bWFzdGVyfGltYWdlc3wyMjQ4OHxpbWFnZS9qcGVnfGhiMS9oMjcvMTAzODE2MDE4NjU3NTgvMDA1MjAwMDMtMTQ1NjYwLTE0NTY2MF8wMS0xNDU2NjBfMDEuanBnX3NpemUzMDB8NTkzZTNhM2M1OTI1MDA2ZjVjN2Y0OTgzMDY3YWI2ZGI5MTMxZWU2MjFkNDgzMzIxMTI5N2Q2OTA3YjRjODJiOQ",
-    "titulo": "JBL Party Box 110",
-    "descripcion": "Altavoz portátil con sonido de 160W, luces incorporadas y diseño a prueba de salpicaduras. 160 W RMS de potente sonido JBL Original Pro. Espectaculo de luces dinamico, colorido y personalizable. Indice de proteccion IPX4. Vincula tus altavoces para obtener un sonido aun mayor. Asa comoda y ruedas robustas. Entradas para microfono y guitarra .Aplicacion PartyBox. Bluetooth. Cable de alimentacion de CA . Longitud del cable: 2 m.",
-    "precio": 1,
-    "antes": 3,
-    "discount": "30% OFF"
-  }
+ "smartphones": [
+ {
+ "id": 1,
+ "img": "https://resources.sears.com.mx/medios-plazavip/mkt/6102fbc3daf3d_dise-o-sin-t-tulo-2021-07-29t135304927jpg.jpg?scale=500&qlty=75",
+ "titulo": "Galaxy A52", 
+ "descripcion": "Samsung Galaxy A52 64GB",
+ "caracteristicas": "• Pantalla: Super AMOLED de 6.5 pulgadas Full HD+ • Procesador: Qualcomm de 8 núcleos. • Cámara principal 64MP + 12MP + 5MP + 5MP. • Cámara frontal: 32 MP. • Batería: Li-ion 4500 mAh. • Memoria RAM: 6GB. Memoria interna: 64GB.",
+ "precio": 3900,
+ "boton": "Agregar"
+ },
+ {
+ "id": 2,
+ "img": "https://cdn.pacifiko.com/image/cache/catalog/p/MjY2ZWI1Nz_1-484x484.png",
+ "titulo": "Redmi Note 13 Pro",
+ "descripcion": "Xiaomi Redmi Note 13 Pro 256GB",
+ "caracteristicas": "• Pantalla: 6.67 pulgadas AMOLED, FHD+, 120 Hz • Procesador: MediaTek Dimensity 920 • Cámara principal: 200 MP + 8 MP + 2 MP • Cámara frontal: 16 MP • Batería: 5100 mAh • Memoria RAM: 12 GB • Memoria interna: 256 GB",
+ "precio": 5800,
+ "boton": "Agregar"
+ },
+ {
+ "id": 3,
+ "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUlEnIKdz-f6Ub_zVGs9eDXFQ6F_QPsGrGQQ&s",
+ "titulo": "Samsung s23 Ultra",
+ "descripcion": "Celular Samsung s23 Ultra 512GB",
+ "caracteristicas": "Pantalla: 6.8 pulgadas Dynamic AMOLED 2X, QHD+, 120 Hz • Procesador: Snapdragon 8 Gen 2 • Cámara principal: 200 MP + 12 MP + 10 MP + 10 MP • Cámara frontal: 12 MP • Batería: 5000 mAh • Memoria RAM: 12 GB • Memoria interna: 512 GB",
+ "precio": 19200,
+ "boton": "Agregar"
+ },
+ {
+ "id": 4,
+ "img": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaPE/18411696_01/public",
+ "titulo": "Moto G50",
+ "descripcion": " Motorola G50 64GB",
+ "caracteristicas": "• Pantalla: 6.5 pulgadas IPS LCD, HD+, 90 Hz • Procesador: Qualcomm Snapdragon 480 • Cámara principal: 48 MP + 5 MP + 2 MP • Cámara frontal: 13 MP • Batería: 5000 mAh • Memoria RAM: 4 GB • Memoria interna: 64 GB ",
+ "precio": 6500,
+ "boton": "Agregar"
+ }
+ ],
+ "tvs": [
+ {
+ "id": 5,
+ "img": "https://cdn1.coppel.com/images/catalog/pm/2096523-1.jpg",
+ "titulo": "Samsung smart tv",
+ "descripcion": "Samsung smart tv 50 pulgadas",
+ "caracteristicas": "• Pantalla: 50 pulgadas LED, 4K UHD • Resolución: 3840 x 2160 píxeles • Sistema Operativo: Tizen • HDR: Compatible con HDR10+ • Conectividad: Wi-Fi, Bluetooth, HDMI (x3), USB (x2) • Sonido: Dolby Digital Plus • Funciones Smart: Asistentes de voz integrados (Bixby, Alexa, Google Assistant), acceso a aplicaciones de streaming (Netflix, YouTube, etc.)",
+ "precio": 8200,
+ "boton": "Agregar"
+ },
+ {
+ "id": 8,
+ "img": "https://cdn1.coppel.com/images/catalog/pm/2426093-1.jpg",
+ "titulo": "Hisense smart tv",
+ "descripcion": "Hisense smart tv 32 pulgadas",
+ "caracteristicas": "• Pantalla: 32 pulgadas LED, HD • Resolución: 1366 x 768 píxeles • Sistema Operativo: VIDAA U • HDR: Compatible con HDR • Conectividad: Wi-Fi, HDMI (x2), USB (x1) • Sonido: DTS Studio Sound • Funciones Smart: Acceso a aplicaciones de streaming (Netflix, YouTube, etc.), control por voz (dependiendo del modelo)",
+ "precio": 3200,
+ "boton": "Agregar"
+ },
+ {
+ "id": 7,
+ "img": "https://cdn1.coppel.com/images/catalog/pm/2131023-1.jpg",
+ "titulo": "LG smart tv",
+ "descripcion": "LG smart tv 65 pulgadas",
+ "caracteristicas": "• Pantalla: 65 pulgadas OLED / LED, 4K UHD • Resolución: 3840 x 2160 píxeles • Sistema Operativo: webOS • HDR: Compatible con HDR10, Dolby Vision • Conectividad: Wi-Fi, Bluetooth, HDMI (x4), USB (x3) • Sonido: Dolby Atmos • Funciones Smart: Asistentes de voz integrados (Google Assistant, Alexa), acceso a aplicaciones de streaming (Netflix, Disney+, etc.)",
+ "precio": 12000,
+ "boton": "Agregar"
+ },
+ {
+ "id": 8,
+ "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4I96JpLeIaW2Sk9REH5UQEa4HXX_woxWJTA&s",
+ "titulo": "Hisense smart tv",
+ "descripcion": "Hisense smart tv 40 pulgadas",
+ "caracteristicas": "• Pantalla: 40 pulgadas LED, Full HD • Resolución: 1920 x 1080 píxeles • Sistema Operativo: VIDAA U • HDR: Compatible con HDR • Conectividad: Wi-Fi, HDMI (x2), USB (x1) • Sonido: DTS Studio Sound • Funciones Smart: Acceso a aplicaciones de streaming (Netflix, YouTube, etc.), control por voz (dependiendo del modelo)",
+ "precio": 8000,
+ "boton": "Agregar"
+ }
+ ],
+ "audio": [
+ {
+ "id": 9,
+ "img": "https://m.media-amazon.com/images/I/61ZksVxDOZL.jpg",
+ "titulo": "Bocina JBL",
+ "descripcion": "Bocina JBL xtreme 3",
+ "caracteristicas": "• Potencia de salida: 2 x 25W (modo AC) • Batería: 10,000 mAh, hasta 15 horas de reproducción • Conectividad: Bluetooth 5.1 • Resistencia: Certificación IP67 (resistente al agua y al polvo) • Sonido: JBL Bass Radiator, sonido estéreo • Funciones adicionales: PartyBoost (para conectar múltiples altavoces compatibles), puerto USB para cargar dispositivos móviles",
+ "precio": 4200,
+ "boton": "Agregar"
+ },
+ {
+ "id": 10,
+ "img": "https://ordena.com/cdn/shop/products/12b62d0b-14b569b0e6f--7ffb94773128761441762.uploadPopup_1024x1024.png?v=1582230877",
+ "titulo": "Bocina KSR",
+ "descripcion": "Bocina KSR 15 pulgadas",
+ "caracteristicas": "• Potencia de salida: 3500 W • Conectividad: Bluetooth, entradas RCA, USB, SD, AUX, Micrófono • Funciones adicionales: Ecualizador, control remoto, radio FM • Diseño: Carcasa robusta, asas y ruedas para transporte en modelos portátiles",
+ "precio": 5000,
+ "boton": "Agregar"
+ },
+ {
+ "id": 11,
+ "img": "https://medias.musimundo.com/medias/00520003-145660-145660-01-145660-01.jpg-size300?context=bWFzdGVyfGltYWdlc3wyMjQ4OHxpbWFnZS9qcGVnfGhiMS9oMjcvMTAzODE2MDE4NjU3NTgvMDA1MjAwMDMtMTQ1NjYwLTE0NTY2MF8wMS0xNDU2NjBfMDEuanBnX3NpemUzMDB8NTkzZTNhM2M1OTI1MDA2ZjVjN2Y0OTgzMDY3YWI2ZGI5MTMxZWU2MjFkNDgzMzIxMTI5N2Q2OTA3YjRjODJiOQ",
+ "titulo": "Bocina JBL",
+ "descripcion": "Bocina JBL party box",
+ "caracteristicas": "• Potencia de salida: 800w • Batería: Integrada (hasta 18 horas de reproducción) • Conectividad: Bluetooth, USB, entrada auxiliar (3.5mm), entrada de micrófono y guitarra •Luces: Luces LED integradas con varios modos y patrones de iluminación • Sonido: Graves profundos, sonido potente y claro • Funciones adicionales: True Wireless Stereo (TWS) para conectar dos altavoces compatibles • Portabilidad: Asas de transporte y ruedas",
+ "precio": 18000,
+ "boton": "Agregar"
+ },
+ {
+ "id": 12,
+ "img": "https://coregaming.com.mx/assets/uploads/sw_01_1950.jpg?1666217038",
+ "titulo": "Bocina Alexa",
+ "descripcion": "Bocina inteligente alexa",
+ "caracteristicas": "• Asistente de Voz: Alexa integrada • Conectividad: Wi-Fi, Bluetooth • Sonido: Altavoz de alta calidad Echo • Micrófonos: Matriz de micrófonos de campo lejano para reconocimiento de voz • Compatibilidad: Control de dispositivos inteligentes del hogar (luces, termostatos, etc.) • Funciones adicionales: Streaming de música (Amazon Music, Spotify, Apple Music), respuestas a preguntas, configuraciones de alarmas y recordatorios, habilidades adicionales descargables",
+ "precio": 1200,
+ "boton": "Agregar"
+ }
+ ],
+ "Destacados": [
+ {
+ "id": 13,
+ "img": "https://medias.musimundo.com/medias/00550016-146186-146186-01-146186-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w3NTAxM3xpbWFnZS9qcGVnfGhmYi9oODkvMTAzOTA2ODA2MzMzNzQvMDA1NTAwMTYtMTQ2MTg2LTE0NjE4Nl8wMS0xNDYxODZfMDEuanBnX3NpemU1MTV8ZjQ2YmYyNzU1ZTc2OTYzNDM0MmIwMzMxN2UyMDIxNmE0NjVjZGMyYzk5ZWQyYmE5NzgyODhhNjA4NjY0ZjEwNA",
+ "titulo": "Samsung Galaxy S20",
+ "descripcion": "Celular. Pantalla Super AMOLED de 6.5''. Procesador: Octa-Core 2.8GHz,2.4GHz,1.8GHz. Bateria: 4,500mAh / 25W Fast Charging. Camara: 12.0 MP + 12.0 MP + 8.0 MP. Camara Frontal: 32.0 MP. Optical Zoom at 3x , Digital Zoom up to 30x. NFC. USB. WIFI. Micro SD. Bluetooth. Almacenamiento: 128 Gb. RAM: 6 Gb. 5G. FOD. Galaxy Experience. IP68. Sensores: Acelerometro / Sensor de huellas dactilares / Sensor giroscopico / Sensor geomagnetico / Sensor Hall / Sensor de luz RGB / Deteccion de proximidad virtual.",
+ "precio": 1,
+ "antes": 1,
+ "discount": "25% OFF"
+ },
+ {
+ "id": 14,
+ "img": "https://medias.musimundo.com/medias/00431006-144267-144267-01-144267-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w4MTUyOHxpbWFnZS9qcGVnfGgyOS9oNjEvMTA0NDA3MzI1NzM3MjYvMDA0MzEwMDYtMTQ0MjY3LTE0NDI2N18wMS0xNDQyNjdfMDEuanBnX3NpemU1MTV8ODg4MWMwN2EzMmFmYWUyZjA0Njg5OGYyMzBlOGE0OWNjNTMxZjA0YjFjN2I1ZjdlN2JiNmU4MGI3MDMxOWZmZg",
+ "titulo": "Smart TV LG 4K UHD",
+ "descripcion": "Televisor Android Smart de 55''. Pantalla LED. Frecuencia de barrido 60 Hz. Potencia RMS 20W. Resolucion 4K UHD 3840 x 2160. 2 Salidas de audio. Bluetooth. Wi Fi. Sintonizador TDA. Tecnologia Android TV 10. 2 USB. 4 HDMI. Incluye Control remoto, 2 pilas AAA, Cable de alimentacion, Guia de inicio rapida, Folleto legal y de seguridad, Soporte para la mesa. Contraste dinamico HDR 10+. Entrada de pc (HDMI). Vision y sonido cinematograficos Dolby Vision y Dolby Atmos. Relacion de aspecto 16:9",
+ "precio": 1,
+ "antes": 1,
+ "discount": "40% OFF"
+ },
+ {
+ "id": 15,
+ "img": "https://medias.musimundo.com/medias/00520003-145660-145660-01-145660-01.jpg-size300?context=bWFzdGVyfGltYWdlc3wyMjQ4OHxpbWFnZS9qcGVnfGhiMS9oMjcvMTAzODE2MDE4NjU3NTgvMDA1MjAwMDMtMTQ1NjYwLTE0NTY2MF8wMS0xNDU2NjBfMDEuanBnX3NpemUzMDB8NTkzZTNhM2M1OTI1MDA2ZjVjN2Y0OTgzMDY3YWI2ZGI5MTMxZWU2MjFkNDgzMzIxMTI5N2Q2OTA3YjRjODJiOQ",
+ "titulo": "JBL Party Box 110",
+ "descripcion": "Altavoz portátil con sonido de 160W, luces incorporadas y diseño a prueba de salpicaduras. 160 W RMS de potente sonido JBL Original Pro. Espectaculo de luces dinamico, colorido y personalizable. Indice de proteccion IPX4. Vincula tus altavoces para obtener un sonido aun mayor. Asa comoda y ruedas robustas. Entradas para microfono y guitarra .Aplicacion PartyBox. Bluetooth. Cable de alimentacion de CA . Longitud del cable: 2 m.",
+ "precio": 1,
+ "antes": 3,
+ "discount": "30% OFF"
+ }
 ]
 }
