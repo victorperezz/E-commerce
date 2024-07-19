@@ -105,11 +105,11 @@
     },
     {
       "id": 12,
-      "img": "",
-      "titulo": "Bocina",
-      "descripcion": "detalles",
-      "caracteristicas": "",
-      "precio": 1,
+      "img": "https://coregaming.com.mx/assets/uploads/sw_01_1950.jpg?1666217038",
+      "titulo": "Bocina Alexa",
+      "descripcion": "Bocina inteligente alexa",
+      "caracteristicas": "• Asistente de Voz: Alexa integrada • Conectividad: Wi-Fi, Bluetooth • Sonido: Altavoz de alta calidad Echo • Micrófonos: Matriz de micrófonos de campo lejano para reconocimiento de voz • Compatibilidad: Control de dispositivos inteligentes del hogar (luces, termostatos, etc.) • Funciones adicionales: Streaming de música (Amazon Music, Spotify, Apple Music), respuestas a preguntas, configuraciones de alarmas y recordatorios, habilidades adicionales descargables",
+      "precio": 1200,
       "boton": "Agregar"
     }
   ],
