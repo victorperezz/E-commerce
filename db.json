@@ -58,11 +58,11 @@
     },
    {
       "id": 7,
-      "img": "",
-      "titulo": "Tvs",
-      "descripcion": "detalles",
-      "caracteristicas": "",
-      "precio": 1,
+      "img": "https://cdn1.coppel.com/images/catalog/pm/2131023-1.jpg",
+      "titulo": "LG smart tv",
+      "descripcion": "LG smart tv 65 pulgadas",
+      "caracteristicas": "• Pantalla: 65 pulgadas OLED / LED, 4K UHD • Resolución: 3840 x 2160 píxeles • Sistema Operativo: webOS • HDR: Compatible con HDR10, Dolby Vision • Conectividad: Wi-Fi, Bluetooth, HDMI (x4), USB (x3) • Sonido: Dolby Atmos • Funciones Smart: Asistentes de voz integrados (Google Assistant, Alexa), acceso a aplicaciones de streaming (Netflix, Disney+, etc.)",
+      "precio": 12000,
       "boton": "Agregar"
     },
      {
