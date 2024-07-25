@@ -38,11 +38,10 @@ import NavBotonFav from "../Favoritos/NavBotonFav";
                 _hover={{ textDecoration: "none" }}
                 className="stackIn"
                 >
-                <Link href="#SeccionDestacados" className="links" >Destacados</Link> 
+                <Link href="#SeccionDestacados" className="links" >Ofertas</Link> 
                 <Link href="#SeccionSmartphone" className="links" >SmartPhone</Link>
                 <Link href="#SeccionTvs" className="links" >TV</Link>
-                <Link href="#SeccionAudio" className="links" >Audio</Link>
-                <Link href="#SeccionNosotros" className="links" >Nosotros</Link>           
+                <Link href="#SeccionAudio" className="links" >Audio</Link>       
             </Stack>
 
           

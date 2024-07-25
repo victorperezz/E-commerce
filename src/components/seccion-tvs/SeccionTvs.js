@@ -61,7 +61,7 @@ const SeccionTvs = ({ producto, addToCart, addToFav }) => {
                         mt="50px"
                         color="--white-color"
                         textShadow="1px 1px 2px #000000"
-                        >¡Elegi el tuyo!</Heading>
+                        >¡Elige el tuyo!</Heading>
                     {
                         producto.length === 0 ? 
                         <Text

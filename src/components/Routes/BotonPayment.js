@@ -10,7 +10,7 @@ const BotonPayment = () => {
         <ul >
             <li style={{display:"flex", justifyContent:"right"}}>
               <Link to="/PaymentForm">
-                <Button
+              <Button
                       fontWeight="bold"
                       fontFamily="--second-font"
                       bg="--grey-light-color"
@@ -19,7 +19,7 @@ const BotonPayment = () => {
                       color="--backg-color"
                       >
                       Pagar
-                </Button>
+                </Button>
               </Link>
             </li>
         </ul>

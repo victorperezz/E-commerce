@@ -4,7 +4,6 @@ import SeccionTvs from "../seccion-tvs/SeccionTvs";
 import SeccionAudio from "../seccion-audio/SeccionAudio";
 import HomeSlider from "../Home/HomeSlider";
 import SeccionDestacados from "../Seccion-Destacados/SeccionDestacados";
-import Nosotros from "../nosotros/Nosotros";
 import NavBar from '../NavBar/NavBar';
 import Whatsapp from '../Whatsapp/whatsapp';
 import BotonDeslizante from '../BotonDeslizante/BotonDeslizante';
@@ -41,9 +40,7 @@ const RouterHome = ({producto, addToCart, addToFav, deleteFromCart, deleteFromFa
                 addToCart={addToCart} 
                 addToFav={addToFav}
                 />
-            <Nosotros 
-                image={image}
-                />
+
             <Footer />
             <Whatsapp />
             <BotonDeslizante />
