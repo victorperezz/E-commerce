@@ -74,7 +74,7 @@ const ShoppingTarjeta = ({ prod, addToCart, deleteFromCart }) => {
                     w="65px"
                     textAlign="center"
                     color="--backg-color"
-                    >{(prod.precio * prod.cantidad).toFixed(3)}
+                    >{(prod.precio * prod.cantidad).toFixed()}
                 </Text>
             </Flex>
         </Box>

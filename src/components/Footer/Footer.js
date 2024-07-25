@@ -13,19 +13,12 @@ const Footer = () => {
                         <li><a href="#SeccionAudio">Audio</a></li>                        
                     </ul>
             </div>
-            <div className="divSoporte">
-                <h4>Soporte</h4>
-                    <ul className="ulSoporte">
-                        <li><a href="https://api.whatsapp.com/send?phone=524411203041&text=Hola!&nbspme&nbsppueden&nbspayudar?">441-120-30-41</a></li>
-                        <li><a href="#E-Mail de Soporte">E-Mail de Soporte</a></li>
-                    </ul>
-            </div>
 
             <div className="divAcercaDeNos">
-                <h4>Acerca de nosotros</h4>
+                <h4>Soporte</h4>
                     <ul className="ulAcercaDeNos">
-                        <li><a href="#Información de la Empresa">Información de la Empresa</a></li>
-                        <li><a href="#identidad de la Marca">Nosotros</a></li>
+                    <li><a href="https://api.whatsapp.com/send?phone=524411203041&text=Hola!&nbspme&nbsppueden&nbspayudar?">441-120-30-41</a></li>
+                    <li><a href="location.href='https://mail.google.com/mail/?view=cm&fs=1&to=omarmp.tij21@utsjr.edu.mx&su=Asunto del Correo&body=Cuerpo del mensaje">E-Mail de Soporte</a></li>
                     </ul>
             </div>
             </div>

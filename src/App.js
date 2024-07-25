@@ -2,13 +2,10 @@ import { Box } from "@chakra-ui/react";
 import axios from "axios";
 import { useEffect, useReducer } from "react";
 import { shoppingReducer, initialState } from "./hooks/reducer/shoppingReducer";
-import imagenes from './img/nosotros/imagenes';
 import { TYPES } from "./hooks/actions/actionsCarrito";
 import Rutas from "./components/Routes/Rutas";
 
 const {READ_STATE ,ADD_TO_CART, REMOVE_ALL_PRODUCT, REMOVE_ONE_PRODUCT, CLEAR_CART, ADD_TO_FAV, REMOVE_FAV} = TYPES
-
-const image = imagenes;
 
 const App = () => {
 
@@ -16,10 +13,10 @@ const App = () => {
 
   const read_state = async () => {
     const ENDPOINTS = {
-      smartphone: "https://productosjson.onrender.com/productos-smartphone",
-      tvs: "https://productosjson.onrender.com/productos-tvs",
-      audio: "https://productosjson.onrender.com/productos-audio",
-      destacados: "https://productosjson.onrender.com/productos-destacados",
+      smartphone: "https://my-json-server.typicode.com/victorperezz/E-commerce/smartphones",
+      tvs: "https://my-json-server.typicode.com/victorperezz/E-commerce/tvs",
+      audio: "https://my-json-server.typicode.com/victorperezz/E-commerce/audio",
+      destacados: "https://my-json-server.typicode.com/victorperezz/E-commerce/Destacados",
       carrito: "https://productosjson.onrender.com/carrito",
       favoritos: "https://productosjson.onrender.com/favoritos"     
     };
@@ -213,7 +210,6 @@ return (
           deleteFromFav={deleteFromFav} 
           clearCart={clearCart} 
           addToFav={addToFav} 
-          image={image}
           />
     </Box>
   )

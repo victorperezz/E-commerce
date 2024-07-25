@@ -31,7 +31,7 @@ const CardDestacados = ({ prod, addToCart }) => {
                         </div>
                         <p className='discount'>{prod.discount}</p>
                         <div className='button'>
-                            {mostrar && <button className='button-comprar' onClick={() => setModalComprar(true)}>Agregar al carrito</button>}
+                            {mostrar && <button className='button-comprar' onClick={() => setModalComprar(true)}>Agregar</button>}
                             <ModalComprar modalComprar={modalComprar} setModalComprar={setModalComprar} prod={prod} addToCart={addToCart}/>
                             {mostrar && <button className='button-detalles' onClick={() => setModal(true)}>Ver Detalles</button>}
                             <Modal modal={modal} setModal={setModal} prod={prod} />

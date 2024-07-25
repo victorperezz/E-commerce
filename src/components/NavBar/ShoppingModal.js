@@ -33,7 +33,7 @@ const ShoppingModal = ({ carrito, isOpen, addToCart, deleteFromCart, clearCart }
                     fontSize={[".8rem", "1rem", "1rem"]}
                     color="--backg-color"
                     display={carrito.length === 0 ? "block" : "none"}
-                    >Agregar productos al carrito</Text>
+                    >Agregue productos al carrito</Text>
                 <Box
                     w="100%"
                     display="flex"
@@ -65,7 +65,7 @@ const ShoppingModal = ({ carrito, isOpen, addToCart, deleteFromCart, clearCart }
                             fontFamily="--second-font"
                             fontWeight="bold"
                             color="--backg-color"
-                            >{(carrito.reduce((ac, prod) => ac + prod.precioT, 0).toFixed(3))}
+                            >{(carrito.reduce((ac, prod) => ac + prod.precioT, 0).toFixed())}
                         </Text>
                     </Flex>
                     <Flex

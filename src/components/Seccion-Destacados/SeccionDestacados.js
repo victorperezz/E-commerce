@@ -6,7 +6,7 @@ import './seccionDestacados.css'
 const SeccionDestacados = ({producto, addToCart}) => {
     return (
         <div className='seccionDestacados' id="SeccionDestacados" >
-            <h2 data-aos="zoom-out-right">Destacados</h2>
+            <h2 data-aos="zoom-out-right">Ofertas</h2>
             <div data-aos="zoom-out-right">
                 {
                     producto.length === 0 ? 

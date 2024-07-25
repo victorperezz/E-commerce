@@ -60,9 +60,7 @@ const PaymentForm = ({ carrito, clearCart }) => {
         }
     }
 
-    const total = (carrito.reduce((ac, prod) => ac + prod.precioT, 0).toFixed(3))
-    const ahoraDiez = (carrito.reduce((ac, prod) => ac + prod.precioT, 0) + total * 0.1).toFixed(3)
-    const ahoraDoce = (carrito.reduce((ac, prod) => ac + prod.precioT, 0) + total * 0.15).toFixed(3)
+    const total = (carrito.reduce((ac, prod) => ac + prod.precioT, 0).toFixed())
 
     return (
         <div className="layout">
@@ -127,22 +125,7 @@ const PaymentForm = ({ carrito, clearCart }) => {
                                 onFocus={handleFocusChange}
                             />
                         </div>
-                        <div className='marginLabel'>
-                            <label htmlFor="cuotas">Cantidad de cuotas</label>
-                            <select 
-                                type="text"
-                                name="cuotas"
-                                id="cuotas"
-                                className="form-control"
-                                onChange={handleInputChange}
-                                onFocus={handleFocusChange}>
-                                <option value="1">1 (sin interés) ${total}  </option>
-                                <option value="2">2 (sin interés) ${total} </option>
-                                <option selected value="3">3 (sin interés) ${total} </option>
-                                <option value="4">Ahora10 (10% de recargo) ${ahoraDiez}</option>
-                                <option value="5">Ahora12 (15% de recargo) ${ahoraDoce}</option>
-                            </select>
-                        </div>
+                        
                     </div>
                     <button onClick={pagoExitoso} type="button" className="btn">Pagar</button>
                     <BotonVolver />
